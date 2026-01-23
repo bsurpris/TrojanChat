@@ -22,7 +22,7 @@ Prerequisites
 Node.js (Latest LTS recommended)
 
 Preview
-<img width="1269" height="872" alt="image" src="https://github.com/user-attachments/assets/ea75ca2b-7771-44f5-b989-bdd248b5f5a5" />
+
 
 
 Contact
