@@ -1,6 +1,6 @@
 # TrojanChat
 TrojanChat 💬
-TrojanChat is a modern, high-performance chat application built with a focus on real-time communication and a polished user experience. Inspired by Discord’s intuitive design, it delivers a multi-channel messaging environment that is fully responsive and optimized for all devices.
+TrojanChat is a modern, high-performance chat application built with a focus on real-time communication and a polished user experience. 
 
 Features:
 Multi-Channel Messaging: Seamlessly manage and switch between different conversation channels.
